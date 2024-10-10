@@ -66,6 +66,7 @@ Fork the repository on GitHub.
 Clone the forked repository:
 
 git clone https://github.com/YOUR-USERNAME/Assignment_S1.06._Generics.git
+
 Create a new branch for your changes:
 
 git checkout -b feature/your-feature-name
